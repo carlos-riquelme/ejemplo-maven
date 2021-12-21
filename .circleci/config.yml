@@ -32,4 +32,4 @@ jobs:
 workflows:
   hello-world-usach-workflow-circleci:
     jobs:
-      - automization-maven-spring-app
+      - automatization-maven-spring-app
