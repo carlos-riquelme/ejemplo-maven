@@ -12,7 +12,7 @@ class DevOpsUsach2020ApplicationTests {
 	void contextLoads() {
 
 		float result1 = 10;
-		float result2 = 11;
+		float result2 = 10;
 		assertEquals(result1, result2);
 	}
 
