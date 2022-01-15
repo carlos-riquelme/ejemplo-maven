@@ -8,6 +8,8 @@ class DevOpsUsach2020ApplicationTests {
 
 	@Test
 	void contextLoads() {
+
+		System.out.println("hola");
 	}
 
 }
